@@ -1,2 +1,5 @@
-# StudyAtUniversity
-大学で学んだプログラミングまとめ
+# 学んだ言語
+- Python
+- C/C++
+- Java
+- Go
